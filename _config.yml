@@ -1,4 +1,4 @@
-baseurl:
+url: 'http://julianzeiler.github.io/'
 permalink: pretty
 markdown: rdiscount
 prose:
