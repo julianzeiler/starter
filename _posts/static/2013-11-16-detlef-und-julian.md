@@ -2,7 +2,7 @@
 layout: page
 published: true
 title: Detlef und Julian
-permalink: about
+permalink: about/
 ---
 
 Herzlich Willkommen auf den Seiten von Detlef und Julian Zeiler.
